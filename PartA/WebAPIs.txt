@@ -1,0 +1,2 @@
+API = application programming interface. It is software that is used by another software that allows apps to
+communicate with each other. Data is built into files and then called into an app for use with callback functions.
